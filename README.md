@@ -1,4 +1,4 @@
-# 🔢 Basic Mathematics Operations Calculator
+# 🔢 Basic Mathematics (DMAS) Operations Calculator
 
 <div align="center">
   
@@ -144,6 +144,6 @@ A **visually stunning calculator** featuring **neumorphic design** principles. T
   
   Want to collaborate? 🤝 **Let's connect!**
   
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=MudasirNaeem1.HTML-CSS-JS-Basic-Calculator)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=MudasirNaeem1.JavaScript-Arithmetic-Web-Calculator)
 
 </div>
