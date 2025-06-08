@@ -14,7 +14,7 @@ A **visually stunning calculator** featuring **neumorphic design** principles. T
 
 <div align="center">
 
-![Marks Details](https://github.com/MudasirNaeem1/HTML-CSS-JS-Basic-Calculator/blob/main/Calculator%20image.JPG)
+![Marks Details](https://github.com/MudasirNaeem1/JavaScript-Arithmetic-Web-Calculator/blob/main/Calculator%20image.JPG)
 
 </div>
 
@@ -124,7 +124,7 @@ A **visually stunning calculator** featuring **neumorphic design** principles. T
 <div align="left">
 
 *Experience the neumorphic design in action!*
- https://basic-calculator-mudasirnaeem.vercel.app/
+ https://java-script-arithmetic-web-calculat.vercel.app/
 
 </div>
 
